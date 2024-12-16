@@ -13,8 +13,11 @@ and personal projects that demonstrate my ability to extract insights, solve pro
 
 ⚡ **Technical Skills**
 **Programming:** Python (Pandas, NumPy), SQL
+
 **Data Visualization:** Power BI, Tableau, Advanced Excel (Dashboards, Pivot Tables)
+
 **Data Analysis & Modeling:** Predictive modeling, KPI tracking, ETL processes
+
 **Cloud & Platforms:** AWS, Google Cloud, GitHub for version control
 
 📩 Let’s Connect!
